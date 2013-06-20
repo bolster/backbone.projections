@@ -1,0 +1,10 @@
+{
+    "name": "backbone.projections",
+    "version": "0.5.2",
+    "main": [
+        "./backbone.projections.js"
+    ],
+    "dependencies": {
+        "backbone": ">= 1.0.0"
+    }
+}
